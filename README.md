@@ -1,4 +1,4 @@
-![Zwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BXBZwe&show_icons=true&theme=radical&hide=issues&rank)
+![Zwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BXBZwe&show_icons=true&theme=radical&hide=issues&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BXBZwe&layout=compact&theme=radical)
 
 <!--
